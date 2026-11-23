@@ -46,4 +46,4 @@ One-Person-Company-AI-Agents/
 - Deploy a functional AI-powered business assistant.
 
 ## Author
-AI & Machine Learning Undergraduate
+AI & ML Undergraduate - Alex Kingley Tuluri
