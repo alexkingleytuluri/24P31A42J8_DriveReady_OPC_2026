@@ -1,37 +1,28 @@
-# One Person Company – AI Agents
+# One Person Company – AI Agents Workshop
 
-## About
+**Institution:** Aditya University – Department of Technology Transfer (DoTT)  
+**Workshop Duration:** November 23 – December 5, 2026  
+**Project:** Sweet Crumbs Home Bakery
 
-A hands-on AI Agents project developed as part of the **One Person Company – AI Agents Workshop** conducted by the Department of Technical Training (DoTT), Aditya University.
+## About This Repository
 
-The objective is to build an AI-powered business workflow using LLMs, AI agents, tools, memory, RAG and external integrations.
+This repository documents my daily learning, practical implementations and project development during the One Person Company – AI Agents Workshop.
 
-## Tech Stack
-
-- Python
-- Google Colab
-- LangChain
-- Groq API
-- OpenAI Python SDK (Groq-compatible API)
-- LangGraph
-- Large Language Models (LLMs)
+Throughout the workshop, I am building an AI-powered business assistant for Sweet Crumbs Home Bakery, learning how to use Large Language Models, prompt engineering, Python, LangChain and AI agents.
 
 ## Daily Progress
 
-| **Day** | **Topic** | **Status** |
+| Day | Topic | Status |
 |---|---|---|
 | Day 1 | LLMs and First API Call | Completed |
-| Day 2 | Prompts, Memory and Python Agents | Completed |
-| Day 3 | First AI Agent | Upcoming |
-| Day 4 | Tools, Pydantic and Google Sheets | Upcoming |
-| Day 5 | Memory | Upcoming |
-| Day 6 | RAG and LangGraph | Upcoming |
-| Day 7–12 | Multi-agent Systems and Demo Day | Upcoming |
+| Day 2 | Prompts, Memory and Python | Completed |
+| Day 3 | Your First Agent – LangChain | Completed |
+| Day 4–12 | Upcoming Workshop Sessions | Pending |
 
-## Project Structure
+## Repository Structure
 
 ```text
-One-Person-Company-AI-Agents/
+24P31A42J8_DriveReady_OPC_2026/
 │
 ├── Day-01-LLMs-and-First-API/
 │   ├── Day1_LLMs_and_First_API_Call.ipynb
@@ -41,20 +32,41 @@ One-Person-Company-AI-Agents/
 │   ├── Day2_Prompts_Memory_and_Python.ipynb
 │   └── README.md
 │
+├── Day-03-First-Agent-and-LangChain/
+│   ├── Day3_First_Agent_and_LangChain.ipynb
+│   ├── tests.csv
+│   └── README.md
+│
 └── README.md
 ```
 
+## Technologies and Tools
+
+- Python
+- Google Colab
+- Groq API
+- Large Language Models (LLMs)
+- Prompt Engineering
+- LangChain
+- Git and GitHub
+
 ## Learning Goals
 
-- Understand LLMs and prompt engineering.
-- Develop AI agents using LangChain and LangGraph.
-- Integrate external tools and APIs.
-- Implement conversation memory and RAG.
-- Build multi-agent workflows.
-- Develop a functional AI-powered business assistant.
+- Understand LLMs and Generative AI.
+- Develop effective prompts.
+- Work with conversation history and memory.
+- Build applications using Python and LangChain.
+- Create AI agents with tools.
+- Develop practical AI solutions for business workflows.
 
-## Author
+## Business Use Case
 
-**Alex Kingley Tuluri**
+**Sweet Crumbs Home Bakery**
 
-AI & ML Undergraduate
+The project explores how AI can support a small home bakery through customer interactions, product information, order-related workflows and business assistance.
+
+## Progress
+
+This repository will be updated regularly with daily workshop implementations, source code, documentation and learning outcomes.
+
+**More updates coming as the workshop progresses!**
