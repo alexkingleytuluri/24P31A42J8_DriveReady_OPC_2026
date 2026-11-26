@@ -1,14 +1,20 @@
 # One Person Company – AI Agents Workshop
 
+**Author:** Alex Kingley Tuluri 
+**Roll Number:** 24P31A42J8  
 **Institution:** Aditya University – Department of Technology Transfer (DoTT)  
 **Workshop Duration:** November 23 – December 5, 2026  
 **Project:** Sweet Crumbs Home Bakery
+
+---
 
 ## About This Repository
 
 This repository documents my daily learning, practical implementations and project development during the One Person Company – AI Agents Workshop.
 
-Throughout the workshop, I am building an AI-powered business assistant for Sweet Crumbs Home Bakery, learning how to use Large Language Models, prompt engineering, Python, LangChain and AI agents.
+Throughout the workshop, I am building an AI-powered business assistant for **Sweet Crumbs Home Bakery**, learning how to use Large Language Models, prompt engineering, Python, LangChain and AI agents.
+
+Each day's folder contains the practical implementation, documentation and learning outcomes.
 
 ## Daily Progress
 
@@ -17,7 +23,15 @@ Throughout the workshop, I am building an AI-powered business assistant for Swee
 | Day 1 | LLMs and First API Call | Completed |
 | Day 2 | Prompts, Memory and Python | Completed |
 | Day 3 | Your First Agent – LangChain | Completed |
-| Day 4–12 | Upcoming Workshop Sessions | Pending |
+| Day 4 | Tools, Structured Output and Google Sheets | Completed |
+| Day 5 | Upcoming Workshop Session | Pending |
+| Day 6 | Upcoming Workshop Session | Pending |
+| Day 7 | Upcoming Workshop Session | Pending |
+| Day 8 | Upcoming Workshop Session | Pending |
+| Day 9 | Upcoming Workshop Session | Pending |
+| Day 10 | Upcoming Workshop Session | Pending |
+| Day 11 | Upcoming Workshop Session | Pending |
+| Day 12 | Upcoming Workshop Session | Pending |
 
 ## Repository Structure
 
@@ -37,6 +51,11 @@ Throughout the workshop, I am building an AI-powered business assistant for Swee
 │   ├── tests.csv
 │   └── README.md
 │
+├── Day-04-Tools-Structured-Output-Google-Sheets/
+│   ├── Day4_Tools_Structured_Output_Google_Sheets.ipynb
+│   ├── sweet_crumbs_facts.txt
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -48,6 +67,9 @@ Throughout the workshop, I am building an AI-powered business assistant for Swee
 - Large Language Models (LLMs)
 - Prompt Engineering
 - LangChain
+- Pydantic
+- Google Sheets
+- gspread
 - Git and GitHub
 
 ## Learning Goals
@@ -57,16 +79,34 @@ Throughout the workshop, I am building an AI-powered business assistant for Swee
 - Work with conversation history and memory.
 - Build applications using Python and LangChain.
 - Create AI agents with tools.
+- Implement structured output using Pydantic.
+- Integrate AI applications with external services.
 - Develop practical AI solutions for business workflows.
 
 ## Business Use Case
 
-**Sweet Crumbs Home Bakery**
+### Sweet Crumbs Home Bakery
 
 The project explores how AI can support a small home bakery through customer interactions, product information, order-related workflows and business assistance.
 
+The practical implementations developed so far include:
+
+- AI-powered bakery chatbot.
+- Prompt engineering and conversation memory.
+- LangChain-based AI agent.
+- Custom tools for product pricing and opening hours.
+- Customer order validation and logging.
+- Structured order extraction using Pydantic.
+- Google Sheets integration for storing customer orders.
+
 ## Progress
 
-This repository will be updated regularly with daily workshop implementations, source code, documentation and learning outcomes.
+This repository is being updated regularly with daily workshop implementations, source code, documentation and learning outcomes.
 
-**More updates coming as the workshop progresses!**
+**Current Progress: 4 out of 12 days completed.**
+
+---
+
+**Developed and maintained by Alex Kingley Tuluri**  
+**Roll Number: 24P31A42J8**  
+**Aditya University – DoTT**
