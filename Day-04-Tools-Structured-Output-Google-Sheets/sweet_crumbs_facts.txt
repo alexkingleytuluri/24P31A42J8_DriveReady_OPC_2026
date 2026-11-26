@@ -1,0 +1,29 @@
+
+SWEET CRUMBS HOME BAKERY - BUSINESS FACTS
+
+MENU:
+1. Plum cake - Rs 500.
+2. Chocolate cake - Rs 650.
+3. Cupcake - Rs 80.
+4. Eggless versions are available for cakes.
+
+ORDER POLICY:
+5. Orders require at least 24 hours' notice.
+6. Customer name is collected when placing an order.
+7. Product and quantity must be specified.
+8. A preferred order date must be provided.
+9. The total is calculated using item price multiplied by quantity.
+
+OPENING HOURS:
+10. Monday to Saturday: 9 AM to 8 PM.
+11. Sunday: 10 AM to 6 PM.
+
+ORDER MANAGEMENT:
+12. Orders are recorded in a Google Sheet.
+13. The order record includes name, item, quantity,
+    date, eggless preference and total.
+
+UNCONFIRMED DETAILS:
+14. Delivery availability, delivery locations and
+    delivery timings have not been established.
+15. Do not promise unverified delivery services.
