@@ -1,6 +1,6 @@
 # One Person Company – AI Agents Workshop
 
-**Author:** Alex Kingley Tuluri 
+**Author:** Alex Kingley Tuluri  
 **Roll Number:** 24P31A42J8  
 **Institution:** Aditya University – Department of Technology Transfer (DoTT)  
 **Workshop Duration:** November 23 – December 5, 2026  
@@ -12,7 +12,7 @@
 
 This repository documents my daily learning, practical implementations and project development during the One Person Company – AI Agents Workshop.
 
-Throughout the workshop, I am building an AI-powered business assistant for **Sweet Crumbs Home Bakery**, learning how to use Large Language Models, prompt engineering, Python, LangChain and AI agents.
+Throughout the workshop, I am building an AI-powered business assistant for **Sweet Crumbs Home Bakery**, learning how to use Large Language Models, prompt engineering, Python, LangChain, AI agents, memory systems and Retrieval-Augmented Generation (RAG).
 
 Each day's folder contains the practical implementation, documentation and learning outcomes.
 
@@ -24,7 +24,7 @@ Each day's folder contains the practical implementation, documentation and learn
 | Day 2 | Prompts, Memory and Python | Completed |
 | Day 3 | Your First Agent – LangChain | Completed |
 | Day 4 | Tools, Structured Output and Google Sheets | Completed |
-| Day 5 | Upcoming Workshop Session | Pending |
+| Day 5 | Memory and Retrieval-Augmented Generation (RAG) | Completed |
 | Day 6 | Upcoming Workshop Session | Pending |
 | Day 7 | Upcoming Workshop Session | Pending |
 | Day 8 | Upcoming Workshop Session | Pending |
@@ -56,6 +56,10 @@ Each day's folder contains the practical implementation, documentation and learn
 │   ├── sweet_crumbs_facts.txt
 │   └── README.md
 │
+├── Day-05-Memory-and-RAG/
+│   ├── Day5_Memory_and_RAG.ipynb
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -67,7 +71,11 @@ Each day's folder contains the practical implementation, documentation and learn
 - Large Language Models (LLMs)
 - Prompt Engineering
 - LangChain
+- LangGraph
 - Pydantic
+- ChromaDB
+- Embeddings and Semantic Search
+- Retrieval-Augmented Generation (RAG)
 - Google Sheets
 - gspread
 - Git and GitHub
@@ -81,6 +89,8 @@ Each day's folder contains the practical implementation, documentation and learn
 - Create AI agents with tools.
 - Implement structured output using Pydantic.
 - Integrate AI applications with external services.
+- Understand embeddings, vector databases and semantic search.
+- Implement Retrieval-Augmented Generation (RAG).
 - Develop practical AI solutions for business workflows.
 
 ## Business Use Case
@@ -98,12 +108,18 @@ The practical implementations developed so far include:
 - Customer order validation and logging.
 - Structured order extraction using Pydantic.
 - Google Sheets integration for storing customer orders.
+- Conversation memory using LangGraph checkpointers and thread IDs.
+- FAQ knowledge base creation and storage using ChromaDB.
+- Semantic search and document retrieval.
+- RAG-powered FAQ search tool integrated into the bakery AI agent.
+
+**Note:** Some FAQ policies used for the Day 5 RAG implementation are practice data from the workshop tutorial and are not all verified real-world policies of Sweet Crumbs Home Bakery.
 
 ## Progress
 
 This repository is being updated regularly with daily workshop implementations, source code, documentation and learning outcomes.
 
-**Current Progress: 4 out of 12 days completed.**
+**Current Progress: 5 out of 12 days completed.**
 
 ---
 
